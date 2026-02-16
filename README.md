@@ -8,7 +8,7 @@ Este projeto reúne exercícios práticos para fixação de conceitos fundamenta
 
 ## 🚀 Tecnologias e Ferramentas
 * **Linguagem:** Python 3.x
-* **Ambiente:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aamandabraun/python-data-structures/blob/main/aula0902.ipynb)
+* **Ambiente:** ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 * **Paradigma:** Estruturado e Funcional
 
 <br>
